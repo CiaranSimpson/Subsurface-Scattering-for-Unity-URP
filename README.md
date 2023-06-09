@@ -9,5 +9,5 @@ Currently the resulant scattering colour cannot vary along surface.
 
 Also included is a premade shader using this subgraph, so if you dont know how to use shader graph you can just use that.
 
-It uses the scenes main light primarily - additional lights will not create scattering effect. Effects will also vary significantly depending on material settings and mesh used - the  heads I built the shader for look good with it but I'm yet to get decent results with a regular sphere.
+It uses the scenes main light primarily - additional lights will not create scattering effect. Effects will also vary significantly depending on material settings and mesh used - the  heads I built the shader for look good with it but I'm yet to get decent results with a regular sphere. So its hard to say if this shader will work well in your specific use case.
 
